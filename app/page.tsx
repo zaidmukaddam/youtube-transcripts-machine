@@ -417,8 +417,8 @@ export default function Home() {
                       </svg>
                     </div>
                     <div>
-                      <h3 className="text-base md:text-lg font-medium text-zinc-200 mb-1 md:mb-2">Fast Processing</h3>
-                      <p className="text-xs md:text-sm text-zinc-400">Get results quickly without having to manually search through videos</p>
+                      <h3 className="text-base md:text-lg font-medium text-zinc-200 mb-1 md:mb-2">Faster Than Human Processing</h3>
+                      <p className="text-xs md:text-sm text-zinc-400">Get results faster than manual human review without having to search through videos yourself</p>
                     </div>
                   </div>
                 </div>
