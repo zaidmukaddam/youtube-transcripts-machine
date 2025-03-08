@@ -1,0 +1,41 @@
+{
+  "name": "youtube-transcripts-machine",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^1.1.20",
+    "@ai-sdk/openai": "^1.2.1",
+    "@browserbasehq/sdk": "^2.3.0",
+    "@browserbasehq/stagehand": "^1.14.0",
+    "@phosphor-icons/react": "^2.1.7",
+    "@vercel/analytics": "^1.5.0",
+    "ai": "^4.1.54",
+    "dotenv": "^16.4.7",
+    "next": "15.2.0",
+    "openai": "^4.86.2",
+    "playwright": "^1.50.1",
+    "playwright-core": "^1.50.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sonner": "^2.0.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8",
+    "tailwind-scrollbar": "^4.0.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
